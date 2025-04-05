@@ -39,6 +39,7 @@ require('lazy').setup({
     { import = 'plugins.languages.markdown' },
     { import = 'plugins.languages.mdx' },
     { import = 'plugins.languages.python' },
+    { import = 'plugins.languages.ruby' },
     { import = 'plugins.languages.tailwind' },
     { import = 'plugins.languages.typescript' },
     { import = 'plugins.linting.core' },
